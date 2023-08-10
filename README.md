@@ -1,5 +1,7 @@
 # Node Farm
 
+This is a simple Node application.
+
 To see the result, follow these steps:
 
 1. Download all project files to your local computer.
